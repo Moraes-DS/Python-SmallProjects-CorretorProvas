@@ -1,4 +1,4 @@
-#Programa de correção de provas objetivas
+#Programa de correção de provas objetivas com 10 questões
 
 # Inicializamos os dados
 respostas = []  # Lista para receber as respostas
